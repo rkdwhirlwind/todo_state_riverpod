@@ -1,5 +1,5 @@
-import 'package:todo_state_getx/common/common.dart';
-import 'package:todo_state_getx/common/widget/round_button_theme.dart';
+import 'package:todo_state_riverpod/common/common.dart';
+import 'package:todo_state_riverpod/common/widget/round_button_theme.dart';
 import 'package:flutter/material.dart';
 
 import 'mixin/wm_refresh_every_second.dart';

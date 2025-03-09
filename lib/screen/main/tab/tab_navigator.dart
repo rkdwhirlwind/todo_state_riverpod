@@ -1,4 +1,4 @@
-import 'package:todo_state_getx/screen/main/tab/tab_item.dart';
+import 'package:todo_state_riverpod/screen/main/tab/tab_item.dart';
 import 'package:flutter/material.dart';
 
 class TabNavigator extends StatelessWidget {

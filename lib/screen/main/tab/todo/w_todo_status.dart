@@ -1,20 +1,21 @@
-import 'package:todo_state_getx/common/common.dart';
-import 'package:todo_state_getx/data/memory/todo_status.dart';
-import 'package:todo_state_getx/screen/main/tab/todo/w_fire.dart';
+import 'package:flutter_riverpod/flutter_riverpod.dart';
+import 'package:todo_state_riverpod/common/common.dart';
+import 'package:todo_state_riverpod/data/memory/todo_status.dart';
+import 'package:todo_state_riverpod/screen/main/tab/todo/w_fire.dart';
 import 'package:flutter/material.dart';
 
 import '../../../../data/memory/vo_todo.dart';
 
-class TodoStatusWidget extends StatelessWidget {
+class TodoStatusWidget extends ConsumerWidget {
   final Todo todo;
 
   const TodoStatusWidget(this.todo, {super.key});
 
   @override
-  Widget build(BuildContext context) {
+  Widget build(BuildContext context, WidgetRef ref) {
     return Tap(
       onTap: () {
-        context.holder.changeTodoStatus(todo);
+        ref.readTodoHolder.changeTodoStatus(todo);
       },
       child: SizedBox(
           width: 50,

@@ -1,5 +1,5 @@
-import 'package:todo_state_getx/common/theme/custom_theme.dart';
-import 'package:todo_state_getx/common/theme/custom_theme_holder.dart';
+import 'package:todo_state_riverpod/common/theme/custom_theme.dart';
+import 'package:todo_state_riverpod/common/theme/custom_theme_holder.dart';
 import 'package:flutter/material.dart';
 
 import '../../common.dart';

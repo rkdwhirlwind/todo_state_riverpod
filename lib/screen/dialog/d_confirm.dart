@@ -1,5 +1,5 @@
-import 'package:todo_state_getx/common/widget/scaffold/center_dialog_scaffold.dart';
-import 'package:todo_state_getx/data/simple_result.dart';
+import 'package:todo_state_riverpod/common/widget/scaffold/center_dialog_scaffold.dart';
+import 'package:todo_state_riverpod/data/simple_result.dart';
 import 'package:flutter/material.dart';
 import 'package:nav/dialog/dialog.dart';
 

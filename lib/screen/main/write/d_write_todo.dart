@@ -1,10 +1,10 @@
 import 'package:after_layout/after_layout.dart';
-import 'package:todo_state_getx/common/common.dart';
-import 'package:todo_state_getx/common/dart/extension/datetime_extension.dart';
-import 'package:todo_state_getx/common/util/app_keyboard_util.dart';
-import 'package:todo_state_getx/common/widget/scaffold/bottom_dialog_scaffold.dart';
-import 'package:todo_state_getx/common/widget/w_round_button.dart';
-import 'package:todo_state_getx/screen/main/write/vo_write_to_result.dart';
+import 'package:todo_state_riverpod/common/common.dart';
+import 'package:todo_state_riverpod/common/dart/extension/datetime_extension.dart';
+import 'package:todo_state_riverpod/common/util/app_keyboard_util.dart';
+import 'package:todo_state_riverpod/common/widget/scaffold/bottom_dialog_scaffold.dart';
+import 'package:todo_state_riverpod/common/widget/w_round_button.dart';
+import 'package:todo_state_riverpod/screen/main/write/vo_write_to_result.dart';
 import 'package:flutter/material.dart';
 import 'package:nav/dialog/dialog.dart';
 

@@ -1,4 +1,4 @@
-import 'package:todo_state_getx/common/common.dart';
+import 'package:todo_state_riverpod/common/common.dart';
 import 'package:flutter/material.dart';
 
 enum RoundButtonTheme {

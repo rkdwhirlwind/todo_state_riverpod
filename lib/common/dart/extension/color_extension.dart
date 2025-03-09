@@ -1,7 +1,7 @@
 import 'dart:math' as math;
 
-import 'package:todo_state_getx/app.dart';
-import 'package:todo_state_getx/common/dart/extension/context_extension.dart';
+import 'package:todo_state_riverpod/app.dart';
+import 'package:todo_state_riverpod/common/dart/extension/context_extension.dart';
 import 'package:flutter/material.dart';
 
 extension ColorExtension on Color {

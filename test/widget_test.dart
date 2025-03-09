@@ -7,11 +7,11 @@
 
 import 'dart:io';
 
-import 'package:todo_state_getx/app.dart';
-import 'package:todo_state_getx/common/common.dart';
-import 'package:todo_state_getx/common/data/preference/app_preferences.dart';
-import 'package:todo_state_getx/common/language/language.dart';
-import 'package:todo_state_getx/common/theme/custom_theme.dart';
+import 'package:todo_state_riverpod/app.dart';
+import 'package:todo_state_riverpod/common/common.dart';
+import 'package:todo_state_riverpod/common/data/preference/app_preferences.dart';
+import 'package:todo_state_riverpod/common/language/language.dart';
+import 'package:todo_state_riverpod/common/theme/custom_theme.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
 import 'package:isar/isar.dart';

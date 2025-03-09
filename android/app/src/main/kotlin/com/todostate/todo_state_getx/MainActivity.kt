@@ -1,4 +1,4 @@
-package com.todostate.todo_state_getx
+package com.todostate.todo_state_riverpod
 
 import io.flutter.embedding.android.FlutterActivity
 

@@ -1,4 +1,4 @@
-import 'package:todo_state_getx/data/simple_result.dart';
+import 'package:todo_state_riverpod/data/simple_result.dart';
 import 'package:flutter/material.dart';
 import 'package:nav/bottom_sheet/modal_bottom_sheet.dart';
 

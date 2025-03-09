@@ -1,4 +1,4 @@
-import 'package:todo_state_getx/common/theme/custom_theme.dart';
+import 'package:todo_state_riverpod/common/theme/custom_theme.dart';
 import 'package:flutter/foundation.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 

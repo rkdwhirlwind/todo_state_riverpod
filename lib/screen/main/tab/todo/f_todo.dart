@@ -1,6 +1,6 @@
-import 'package:todo_state_getx/common/common.dart';
-import 'package:todo_state_getx/common/dart/extension/color_extension.dart';
-import 'package:todo_state_getx/screen/main/tab/todo/w_todo_list.dart';
+import 'package:todo_state_riverpod/common/common.dart';
+import 'package:todo_state_riverpod/common/dart/extension/color_extension.dart';
+import 'package:todo_state_riverpod/screen/main/tab/todo/w_todo_list.dart';
 import 'package:flutter/material.dart';
 
 class TodoFragment extends StatefulWidget {
@@ -25,7 +25,7 @@ class _TodoFragmentState extends State<TodoFragment> {
               )
             ],
           ),
-          Expanded(child: const TodoList().pSymmetric(h: 15)),
+          Expanded(child: TodoList().pSymmetric(h: 15)),
         ],
       ),
     );

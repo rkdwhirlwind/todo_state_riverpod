@@ -1,4 +1,4 @@
-import 'package:todo_state_getx/common/data/preference/item/nullable_preference_item.dart';
+import 'package:todo_state_riverpod/common/data/preference/item/nullable_preference_item.dart';
 
 import '../app_preferences.dart';
 

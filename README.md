@@ -1,4 +1,4 @@
-# todo_state_getx
+# todo_state_riverpod
 
 A new Flutter project.
 

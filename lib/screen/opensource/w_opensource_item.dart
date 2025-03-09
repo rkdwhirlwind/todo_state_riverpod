@@ -1,5 +1,5 @@
-import 'package:todo_state_getx/common/common.dart';
-import 'package:todo_state_getx/screen/opensource/vo_package.dart';
+import 'package:todo_state_riverpod/common/common.dart';
+import 'package:todo_state_riverpod/screen/opensource/vo_package.dart';
 import 'package:flutter/material.dart';
 
 class OpensourceItem extends StatelessWidget {

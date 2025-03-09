@@ -1,6 +1,6 @@
 {
-    "name": "todo_state_getx",
-    "short_name": "todo_state_getx",
+    "name": "todo_state_riverpod",
+    "short_name": "todo_state_riverpod",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

@@ -1,4 +1,4 @@
-import 'package:todo_state_getx/common/cli_common.dart';
+import 'package:todo_state_riverpod/common/cli_common.dart';
 import 'package:flutter/widgets.dart';
 
 extension AnimationControllerExtension on AnimationController {

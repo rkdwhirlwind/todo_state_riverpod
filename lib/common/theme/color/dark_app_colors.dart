@@ -1,5 +1,5 @@
-import 'package:todo_state_getx/common/dart/extension/color_extension.dart';
-import 'package:todo_state_getx/common/theme/color/abs_theme_colors.dart';
+import 'package:todo_state_riverpod/common/dart/extension/color_extension.dart';
+import 'package:todo_state_riverpod/common/theme/color/abs_theme_colors.dart';
 import 'package:flutter/material.dart';
 
 class DarkAppColors extends AbstractThemeColors {
